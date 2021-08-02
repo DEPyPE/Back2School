@@ -101,21 +101,21 @@ td, th {
     font-size: 22px;
 }
 
-.icon-color-green, .icon-color-red, .icon-color-blue{
+.icon-color-check, .icon-color-close, .icon-color-info{
     padding-top: 0px;
     padding-right: 8px;
     font-size: 22px !important;
 }
 
-.icon-color-green{
+.icon-color-check{
     color: green;
 }
 
-.icon-color-red{
+.icon-color-close{
     color: red;
 }
 
-.icon-color-blue{
+.icon-color-info{
     color: rgb(135, 206, 235);
 }
 
