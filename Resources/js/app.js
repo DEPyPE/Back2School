@@ -19,7 +19,7 @@ var DataCountries = [
         "id": "AE",
         "title": " ",
         "balloonText": "Emiratos Árabes Unidos",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "DE",
@@ -41,25 +41,25 @@ var DataCountries = [
         "id": "AF",
         "title": " ",
         "balloonText": "Afganistán",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "AL",
         "title": " ",
         "balloonText": "Albania",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "AM",
         "title": " ",
         "balloonText": "Armenia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "AO",
         "title": " ",
         "balloonText": "Angola",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "AR",
@@ -97,35 +97,35 @@ var DataCountries = [
         id: "AU",
         title: "Australia",
         balloonText: "Australia",
-        regresoActividadesPresenciales: "",
-        fechaRetorno: "",
-        tipoModelo: "",
-        reincorporacionVoluntaria: "",
-        reincorporacionGradual: "",
-        docentesVacunados: "",
-        alumnosVacunados: "",
-        nombreEstrategia: "",
-        actividadesPresenciales: "",
-        aforosFiltrosSanitarios: "",
+        regresoActividadesPresenciales: "Si",
+        fechaRetorno: "25 de mayo: Nueva de Gales del Sur, Queensland y Tasmania, 26 de mayo: estado de Victoria para cursos inferiores y superiores y el resto de niveles regresarán el 9 de junio",
+        tipoModelo: "Normal",
+        reincorporacionVoluntaria: "close",
+        reincorporacionGradual: "check",
+        docentesVacunados: "close",
+        alumnosVacunados: "close",
+        nombreEstrategia: "Sin información",
+        actividadesPresenciales: "Para hacer posible el regreso a los colegios se han adoptado estrictas medidas de higiene y se han prohibido actividades como las competencias escolares y las excursiones en estados como Nueva de Gales del Sur, Queensland y Tasmania. <br><br> Pese a los resguardos que han tomado las autoridades para evitar los contagios de coronavirus (COVID-19), más de siete mil padres y apoderados han firmado una petición en el portal Change.org para que el regreso a las clases presenciales en Nueva Gales del Sur no sea de carácter obligatorio. <br><br>  En cuanto a las universidades, aún se sigue estudiando cómo y cuándo regresar. Sin embargo, esta decisión recae en cada plantel y su respectivo estado.",
+        aforosFiltrosSanitarios: "Regresan el total de la comunidad escolar para los niveles que retornan a clases presenciales, tanto alumnos, profesores y trabajadores se integrarán a las actividades académicas y laborales normales, siguiendo las medidas de distanciamiento social, uso de mascarilla en caso de tener tener síntomas respiratorios y el uso de desinfectante a base de alcohol.",
         color: "rgba(0, 24, 75, 1)"
     },
     {
         "id": "AZ",
         "title": " ",
         "balloonText": "Azerbaiyán",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "BA",
         "title": " ",
         "balloonText": "Bosnia y Herzegovina",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "BD",
         "title": " ",
         "balloonText": "Bangladesh",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "BE",
@@ -147,25 +147,25 @@ var DataCountries = [
         "id": "BF",
         "title": " ",
         "balloonText": "Burkina Faso",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "BG",
         "title": " ",
         "balloonText": "Bulgaria",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "BI",
         "title": " ",
         "balloonText": "Burundi",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "BJ",
         "title": " ",
         "balloonText": "Benin",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "BO",
@@ -203,19 +203,19 @@ var DataCountries = [
         "id": "BT",
         "title": " ",
         "balloonText": "Bután",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "BW",
         "title": " ",
         "balloonText": "Botswana",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "BY",
         "title": " ",
         "balloonText": "Bielorrusia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "BZ",
@@ -237,35 +237,35 @@ var DataCountries = [
         id: "CA",
         title: "Canadá",
         balloonText: "Canadá",
-        regresoActividadesPresenciales: "",
-        fechaRetorno: "",
-        tipoModelo: "",
-        reincorporacionVoluntaria: "",
-        reincorporacionGradual: "",
-        docentesVacunados: "",
-        alumnosVacunados: "",
-        nombreEstrategia: "",
-        actividadesPresenciales: "",
-        aforosFiltrosSanitarios: "",
+        regresoActividadesPresenciales: "Si",
+        fechaRetorno: "7 de Septiembre 2021",
+        tipoModelo: "Híbrido",
+        reincorporacionVoluntaria: "check",
+        reincorporacionGradual: "check",
+        docentesVacunados: "check",
+        alumnosVacunados: "close",
+        nombreEstrategia: "No disponible",
+        actividadesPresenciales: "Se están planificando la reanudación de las actividades en los campus y una combinación de cursos presenciales, híbridos y en línea. Dependiendo de una variedad de factores para decidir qué métodos se usarían para qué cursos, incluido el tamaño de las clases, la población estudiantil, las instalaciones y si el curso se basa en conferencias o laboratorios.",
+        aforosFiltrosSanitarios: "El ministerio está animando a las escuelas a utilizar pruebas rápidas de antígenos para la detección de rutina de personas asintomáticas, así como la vigilancia de las aguas residuales para detectar niveles de COVID-19. <br><br>Se está planificando que se ofrezcan muchas clases pequeñas, laboratorios y tutoriales en persona, con protocolos de seguridad adecuados.",
         color: "rgba(0, 24, 75, 1)"
     },
     {
         "id": "CD",
         "title": " ",
         "balloonText": "República Democrática del Congo",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "CF",
         "title": " ",
         "balloonText": "República Centroafricana",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "CG",
         "title": " ",
         "balloonText": "República del Congo",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "CH",
@@ -287,7 +287,7 @@ var DataCountries = [
         "id": "CI",
         "title": " ",
         "balloonText": "Costa de Marfil",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "CL",
@@ -309,13 +309,13 @@ var DataCountries = [
         "id": "CM",
         "title": " ",
         "balloonText": "Camerún",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "CN",
         "title": " ",
         "balloonText": "China",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "CO",
@@ -417,7 +417,7 @@ var DataCountries = [
         "id": "DZ",
         "title": " ",
         "balloonText": "Argelia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "EC",
@@ -439,25 +439,25 @@ var DataCountries = [
         "id": "EE",
         "title": " ",
         "balloonText": "Estonia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "EG",
         "title": " ",
         "balloonText": "Egipto",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "EH",
         "title": " ",
         "balloonText": "Sahara Occidental",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "ER",
         "title": " ",
         "balloonText": "Eritrea",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "ES",
@@ -479,13 +479,13 @@ var DataCountries = [
         "id": "ET",
         "title": " ",
         "balloonText": "Etiopía",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "FK",
         "title": " ",
         "balloonText": "Islas Malvinas",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "FI",
@@ -507,23 +507,23 @@ var DataCountries = [
         id: "FR",
         title: "Francia",
         balloonText: "Francia",
-        regresoActividadesPresenciales: "",
-        fechaRetorno: "",
-        tipoModelo: "",
-        reincorporacionVoluntaria: "",
-        reincorporacionGradual: "",
-        docentesVacunados: "",
-        alumnosVacunados: "",
-        nombreEstrategia: "",
-        actividadesPresenciales: "",
-        aforosFiltrosSanitarios: "",
+        regresoActividadesPresenciales: "Si",
+        fechaRetorno: "Abril de 2021",
+        tipoModelo: "Híbrido",
+        reincorporacionVoluntaria: "close",
+        reincorporacionGradual: "check",
+        docentesVacunados: "check",
+        alumnosVacunados: "check",
+        nombreEstrategia: "No disponible",
+        actividadesPresenciales: "Francia continental a partir del lunes 5 de abril de 2021: semana del 5 de abril: aprendizaje a distancia y continuidad educativa para escuelas, colegios y escuelas secundarias del 12 al 25 de abril: dos semanas de vacaciones escolares para todas las zonas 26 de abril: regreso a clases para estudiantes de primaria, jardín de infantes y primaria semana de aprendizaje a distancia para escuelas intermedias y secundarias 3 de mayo: regreso a clases para escuelas intermedias y secundarias, si es necesario con medidores adaptados. <br>Con el fin de permitir a los docentes asegurar la continuidad pedagógica, se han puesto a disposición en el sitio ''eduscol'' muchos recursos que tiene una treintena de páginas relacionadas con la continuidad pedagógica, tales como: consejos para docentes y selecciones de recursos académicos para el primer grado y para la mayoría disciplinas secundarias, acceso a los servicios digitales del CNED, etc. <br><br>Desde el inicio del curso escolar 2020, se dispone del marco normativo nacional y de las fichas con el objetivo de facilitar el establecimiento de la continuidad educativa. <br><br>La frecuencia de consulta de las páginas ''eduscol'' constituye en este sentido un indicador interesante de la necesaria modificación de las prácticas docentes para afrontar un nuevo contexto de salud y una experiencia de clase sin precedentes",
+        aforosFiltrosSanitarios: "Distanciamiento de 2 metros entre grupos en la cafetería y el uso de mascarillas categoría 1 (quirúrgico) son requisito, dentro y fuera de cada establecimiento dentro y fuera de de cada establecimiento tanto para los estudiantes como para el personal. Solo a los alumnos de preescolar se les exime del uso de tapabocas. En cuanto al distanciamiento físico, se pide a la hora del almuerzo los alumnos de un mismo curso permanecen en grupo y no se mezclan con estudiantes de otros cursos. Se suma una ventilación de los espacios mucho más frecuente. En caso de que un estudiante de positivo a COVID para considerar como contactos estrechos a todos sus comañeros de curso. En ese caso la clase tendrá que cerrar y los alumnos permanecer aislados durante 7 días.",
         color: "rgba(0, 24, 75, 1)"
     },
     {
         "id": "GA",
         "title": " ",
         "balloonText": "Gabón",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "GB",
@@ -545,7 +545,7 @@ var DataCountries = [
         "id": "GE",
         "title": " ",
         "balloonText": "Georgia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "GF",
@@ -567,31 +567,31 @@ var DataCountries = [
         "id": "GH",
         "title": " ",
         "balloonText": "Ghana",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "GL",
         "title": " ",
         "balloonText": "Groenlandia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "GM",
         "title": " ",
         "balloonText": "Gambia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "GN",
         "title": " ",
         "balloonText": "Guinea",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "GQ",
         "title": " ",
         "balloonText": "Guinea Ecuatorial",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "GR",
@@ -629,7 +629,7 @@ var DataCountries = [
         "id": "GW",
         "title": " ",
         "balloonText": "Guinea-Bissau",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "GY",
@@ -667,7 +667,7 @@ var DataCountries = [
         "id": "HR",
         "title": " ",
         "balloonText": "Croacia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "HT",
@@ -705,7 +705,7 @@ var DataCountries = [
         "id": "ID",
         "title": " ",
         "balloonText": "Indonesia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "IE",
@@ -727,19 +727,19 @@ var DataCountries = [
         "id": "IN",
         "title": " ",
         "balloonText": "India",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "IQ",
         "title": " ",
         "balloonText": "Irak",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "IR",
         "title": " ",
         "balloonText": "Irán",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "IS",
@@ -771,13 +771,13 @@ var DataCountries = [
         nombreEstrategia: "Decreto del Gobierno Italiano",
         actividadesPresenciales: "Estaban incorporados, sin embargo el 06 de marzo se cerraron las escuelas por altas tasas de contagios. Principalmente en las regiones del sur, Basilicata y Molise, son actualmente zonas rojas. <br><br>  De acuerdo con el Comunicado de prensa del Consejo de Ministros n. 10, del 7 al 30 de abril de 2021 la realización en presencia de los servicios educativos para la infancia y el jardín de infancia, así como la actividad didáctica del primer ciclo de educación y el primer año de Bachillerato. Para los grados posteriores de educación, las actividades se confirman en presencia del 50% al 75% de la población estudiantil en la zona naranja mientras que en la zona roja las actividades relacionadas se realizan a distancia, garantizando en todo caso la posibilidad de Realización de actividades presenciales para los alumnos con discapacidad y necesidades educativas especiales. <br><br> Ministerio de Educación italiano aún no ha anunciado ninguna actualización de las reglas, el panel asesor de expertos científicos del gobierno, el CTS, dijo que “las medidas que se aplicarán para el comienzo del año escolar 2021-2022 deben ser las mismas que las previstas al comienzo del año escolar anterior",
         aforosFiltrosSanitarios: "En regiones como Lombardía el regreso a clases presenciales se realizó con un aforo del 50% de los alumnos, escalonados en dos tandas: un 35% entró a las 8:00 am, y el restante 15% entró a las 9:30am, esto para evitar aglomeraciones. Sin embargo, el gobierno italiano decretó la habilitación para el regreso a clases en todo el país con presencia de entre el 50% y el 75% de la capacidad, siguiendo medidas de limpieza e higiene, dentro de las cuales se resalta el uso de mascarilla obligatorio, mantener medidas de distanciamiento social y la limpieza de los salones y el material de las escuelas. <br><br> Esto significaría máscaras para todos los mayores de seis años, pupitres individuales y asientos a distancia, horarios de entrada y salida escalonados y reglas de cuarentena para las clases con casos positivos, así como la posibilidad de que algunas clases se sigan impartiendo en línea, dependiendo de la situación de salud en cada área local y las reglas previstas en el sistema escalonado de restricciones de Italia. <br><br> Italia actualmente permite que todas las autoridades sanitarias locales ofrezcan vacunas a todas las personas mayores de 12 años.",
-        color: "rgba(0, 24, 75, 1)",
+        color: "rgba(255, 165, 0, 1)",
     },
     {
         "id": "JO",
         "title": " ",
         "balloonText": "Jordania",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "JM",
@@ -815,56 +815,56 @@ var DataCountries = [
         id: "JP",
         title: "Japón",
         balloonText: "Japón",
-        regresoActividadesPresenciales: "",
-        fechaRetorno: "",
-        tipoModelo: "",
-        reincorporacionVoluntaria: "",
-        reincorporacionGradual: "",
-        docentesVacunados: "",
-        alumnosVacunados: "",
-        nombreEstrategia: "",
-        actividadesPresenciales: "",
-        aforosFiltrosSanitarios: "",
-        color: "rgba(0, 24, 71, 1)"
+        regresoActividadesPresenciales: "Si",
+        fechaRetorno: "Agosto de 2021",
+        tipoModelo: "Híbrido",
+        reincorporacionVoluntaria: "info",
+        reincorporacionGradual: "check",
+        docentesVacunados: "close",
+        alumnosVacunados: "close",
+        nombreEstrategia: "La educación en Japón más allá de la crisis del covid-19. No dejar a nadie atrás",
+        actividadesPresenciales: "El cierra Preferencia a conocimientos fundamentales, se reduce la carga docente, se pierden actividades físicas, se asignan maestros e instructores adicionales. Se contratan más docentes (instructores y asistentes de maestros se contratan docentes retirados y estudianres de grados superiores por tiempo parcial).",
+        aforosFiltrosSanitarios: "Se toma la temperatura, se asigan fondos a cada escuela para que compre insumos (termómetro, desinfectantes, teléfonos celulares, etc.)",
+        color: "rgba(0, 24, 75, 1)"
     },
     {
         "id": "KE",
         "title": " ",
         "balloonText": "Kenya",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "KG",
         "title": " ",
         "balloonText": "Kirguistán",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "KH",
         "title": " ",
         "balloonText": "Camboya",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "KP",
         "title": " ",
         "balloonText": "Corea del Norte",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "KR",
         title: "Corea del Sur",
         balloonText: "Corea del Sur",
-        regresoActividadesPresenciales: "",
-        fechaRetorno: "",
-        tipoModelo: "",
-        reincorporacionVoluntaria: "",
-        reincorporacionGradual: "",
-        docentesVacunados: "",
-        alumnosVacunados: "",
-        nombreEstrategia: "",
-        actividadesPresenciales: "",
-        aforosFiltrosSanitarios: "",
+        regresoActividadesPresenciales: "Si",
+        fechaRetorno: "Mayo de 2021",
+        tipoModelo: "Híbrido",
+        reincorporacionVoluntaria: "check",
+        reincorporacionGradual: "check",
+        docentesVacunados: "check",
+        alumnosVacunados: "close",
+        nombreEstrategia: "k12",
+        actividadesPresenciales: "El protocolo obligaba a que, una vez activado por el Ministerio de Salud el nivel 2 de restricciones en función del volumen regional de contagios, solo un tercio (en el caso de preescolar, primaria y secundaria) y dos tercios (para bachillerato) del total de alumnos en cada aula pudieran asistir a clases al mismo tiempo. <br>El tercio o dos tercios restantes debían asistir online a las clases, con base en un sistema rotatorio para garantizar que todos los alumnos tuvieran la misma proporción de horas lectivas presenciales y a distancia. <br>Independientemente del nivel de transmisión comunitaria, es importante utilizar y multiplexar estrategias de prevención en las escuelas. Aquí hay cinco estrategias de prevención clave para ayudar a garantizar una educación cara a cara segura y ayudar a prevenir la propagación de COVID-19 en las escuelas: <br>Todos usan la máscara correctamente distanciamiento físico <br>Lavado de manos y etiqueta respiratoria. <br>Mantener las instalaciones limpias y sanitarias. <br>Rastreo de contactos además de cuarentena y cuarentena preventiva <br><br> Las escuelas que ofrecen educación presencial deben priorizar dos estrategias de prevención: <ol> <li>Asegúrese de que todos usen / usen una máscara correctamente</li> <li>Maximizar el distanciamiento físico</li> <li>Todas las estrategias de prevención brindan algún nivel de protección, y el nivel más alto de protección se puede lograr aplicando múltiples estrategias al mismo tiempo. </li> <li>Las escuelas deben adoptar estrategias de prevención en un enfoque multiplexado que sea lo más práctico posible.</li></ol>",
+        aforosFiltrosSanitarios: "La estrategia recomendada por el gobierno surcoreano consiste en un ingreso de los estudiantes ordenado, por turnos y que pasen por un detector térmico. Durante el día el control de la temperatura se realizaba varias veces al igual que el lavado de manos. Además, los escritorios fueron separados por unas láminas y el uso de mascarillas es permanentemente.",
         color: "rgba(0, 24, 75, 1)"
     },
     {
@@ -887,19 +887,19 @@ var DataCountries = [
         "id": "XK",
         "title": " ",
         "balloonText": "Kosovo",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "KZ",
         "title": " ",
         "balloonText": "Kazajstán",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "LA",
         "title": " ",
         "balloonText": "República Democrática Popular Lao",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "IL",
@@ -915,25 +915,25 @@ var DataCountries = [
         nombreEstrategia: "Plan de Sanidad",
         actividadesPresenciales: "Se inició con alumnos de preescolar y de los primeros cuatro cursos de primaria. 20% del alumnado, el 80% restante (1,9 millones de estudiantes) seguirá con clases virtuales, y su vuelta se hará en varias fases para evitar un nuevo pico de infecciones. Primera fase, preescolar y hasta los 10 años, en las llamadas zonas verdes, con bajo índice de morbilidad, o en las que más de un 70% de la población por encima de los 50 años ha sido vacunada. La segunda fase, a partir del 23 de febrero, contempla la vuelta a las aulas a partir de los 10 a los 18 años en ciudades con bajo índice de contagios o con más del 70% de vacunación. Desde el 9 de marzo, en una tercera etapa, los cursos no incorporados podrían volver a las aulas hasta los 18 años. Con respecto a las universidades, la vacunación se extenderá hasta el nivel superior para completar la reapertura de todo el sistema educativo. Los estudiantes con pase verde podrán asistir a clases presenciales en las facultades; los demás deberán seguir el curso académico en clases a distancia. Porcentaje de población vacunada con una de las dosis: un 63,44%., desde mao ya no es obligatorio el uso de cubrebocas. Israel fue de los primeros países del mundo en quitar totalmente la mascarilla, una de las principales medidas con las que evitar los contagios. Lo hizo con tasas de incidencia muy bajas y tras la inmunización de gran parte de su población. niños de entre 12 y 15 años habían recibido su primera dosis de la vacuna,. El resurgimiento del coronavirus en Israel se atribuye en gran parte a la propagación del tipo delta, que se detectó por primera vez en la India y se cree que es dos veces más contagioso que la cepa COVID original. Ministerio de Salud recomiende a los niños que comiencen el próximo año escolar (21-22) estudiando en “cápsulas” socialmente distanciadas el inicio del año escolar programado para fines de agosto, pero que para escuelas ultraortodoxas se adelanta al día 8 de ese mes.",
         aforosFiltrosSanitarios: "Es el segundo intento de reincoporación, la primera fue en agosto 2020. El Ministerio de Educación había dado instrucciones de seguridad: los cubrebocas debían ser usados por los estudiantes a partir de cuarto grado, las ventanas tenían que estar abiertas, debían lavarse las manos con frecuencia y los estudiantes tenían que mantener una distancia de dos metros siempre que fuera posible. Para la reincorporación a clases en el año 2021 se utilizará el modelo ''10-4'' desarrollado por los científicos Uri Alon y Ron Milo, y se basa en el período de latencia del virus, es decir, el lapso que transcurre entre que una persona se contagia y pasa a ser contagiosa para los demás. Ese tiempo se calcula en tres días y de ahí surge el modelo: 4 días en la escuela (de lunes a jueves) y 10 días de confinamiento, lo que da oportunidad para ingresar a un nuevo grupo de alumnos y se reduzca la posibilidad de segregación de la enfermedad. Para el ciclo 21-22 se prevee aumentar el número de salas para disminuir los estudiantes reunidos en un espacio y que en caso de brotes los menores vacunados pueden reanudar los estudios si dan negativo a un test rápido, mientras que los no inmunizados deben permanecer una semana en cuarentena. nfatizando en la importancia de que la mayor cantidad de niños desde los 12 años sean vacunados y aquellos que no cumplan podrían exigirles un examen negativo para poder retornar a clases este semestre, cuyo costo correrá por parte de los padres o tutores de los menores.",
-        color: "rgba(0, 24, 71, 1)"
+        color: "rgba(0, 24, 75, 1)"
     },
     {
         "id": "LK",
         "title": " ",
         "balloonText": "Sri Lanka",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "LR",
         "title": " ",
         "balloonText": "Liberia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "LS",
         "title": " ",
         "balloonText": "Lesoto",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "LT",
@@ -1003,119 +1003,119 @@ var DataCountries = [
         "id": "LY",
         "title": " ",
         "balloonText": "Libia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "MA",
         "title": " ",
         "balloonText": "Marruecos",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "MD",
         "title": " ",
         "balloonText": "Moldavia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "ME",
         "title": " ",
         "balloonText": "Montenegro",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "MG",
         "title": " ",
         "balloonText": "Madagascar",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "MK",
         "title": " ",
         "balloonText": "Macedonia del Norte",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "ML",
         "title": " ",
         "balloonText": "Mali",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "MM",
         "title": " ",
         "balloonText": "Myanmar",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "MN",
         "title": " ",
         "balloonText": "Mongolia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "MR",
         "title": " ",
         "balloonText": "Mauritania",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "MW",
         "title": " ",
         "balloonText": "Malawi",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "TF",
         "title": " ",
         "balloonText": "Tierras Australes y Antárticas Francesas",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "MX",
         title: "México",
         balloonText: "México",
-        regresoActividadesPresenciales: "",
-        fechaRetorno: "",
-        tipoModelo: "",
-        reincorporacionVoluntaria: "",
-        reincorporacionGradual: "",
-        docentesVacunados: "",
-        alumnosVacunados: "",
-        nombreEstrategia: "",
-        actividadesPresenciales: "",
-        aforosFiltrosSanitarios: "",
-        color: "rgba(255, 165, 0, 1)"
+        regresoActividadesPresenciales: "Si",
+        fechaRetorno: "Agosto de 2021",
+        tipoModelo: "Híbrido",
+        reincorporacionVoluntaria: "check",
+        reincorporacionGradual: "check",
+        docentesVacunados: "check",
+        alumnosVacunados: "close",
+        nombreEstrategia: "Estrategia Nacional para el Regreso Seguro a Clases Presenciales en las Escuelas de Educación Básica",
+        actividadesPresenciales: "La Secretaría de Educación Pública (SEP) reitera que el regreso a clases presenciales, en las entidades con semáforo epidemiológico en verde, será gradual y voluntario, por lo que las madres y padres de familia están en libertad de decidir si llevan o no a sus hijas e hijos a los planteles escolares. <br><br> Se identifican al menos tres niveles de comunicación y participación de los educandos en actividades convocadas por el personal docente: <ol> <li>Comunicación y participación sostenida: seguimiento de la programación de Aprende en Casa II por algún medio, comunicación continua entre el titular del grupo o asignatura y sus alumnas o alumnos, participación en sesiones y realización de las actividades didácticas indicadas.</li> <li>Comunicación intermitente y baja participación en actividades propuestas por el profesor o profesora: seguimiento ocasional de la programación de Aprende en Casa II, comunicación esporádica entre titular del grupo o asignatura y estudiantes, y entrega parcial de trabajos encargados.</li> <li>Comunicación prácticamente inexistente: sin posibilidad de dar seguimiento al proceso educativo de las alumnas y alumnos</li>",
+        aforosFiltrosSanitarios: "Instalación de los Comités Participativos de Salud Escolar integrados por padres de familia y maestros. <br>Garantizar acceso a jabón y agua o gel en todas las escuelas, debido a que es la forma más efectiva para evitar contagios de Covid-19. <br>Cuidado de maestras y maestros. Quienes ya fueron vacunados. <br>Uso de cubrebocas o pañuelo obligatorio. <br>Sana distancia para las entradas y salidas de los alumnos, recreos escalonados, lugares fijos asignados y asistencia alternada a la escuela por apellido durante el curso remedial. <br>Maximizar el uso de espacios abiertos. <br>Suspensión de cualquier tipo de ceremonias o reuniones. <br>Detección temprana de un caso de COVID-19 <br>Apoyo social emocional para docentes y estudiantes.",
+        color: "rgba(0, 24, 75, 1)"
     },
     {
         "id": "MY",
         "title": " ",
         "balloonText": "Malasia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "MZ",
         "title": " ",
         "balloonText": "Mozambique",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "NA",
         "title": " ",
         "balloonText": "Namibia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "NE",
         "title": " ",
         "balloonText": "Niger",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "NG",
         "title": " ",
         "balloonText": "Nigeria",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "NI",
@@ -1169,7 +1169,7 @@ var DataCountries = [
         "id": "NP",
         "title": " ",
         "balloonText": "Nepal",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "NZ",
@@ -1191,7 +1191,7 @@ var DataCountries = [
         "id": "OM",
         "title": " ",
         "balloonText": "Omán",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "PA",
@@ -1229,13 +1229,13 @@ var DataCountries = [
         "id": "PG",
         "title": " ",
         "balloonText": "Papúa Nueva Guinea",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "PH",
         "title": " ",
         "balloonText": "Filipinas",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "PL",
@@ -1257,7 +1257,7 @@ var DataCountries = [
         "id": "PK",
         "title": " ",
         "balloonText": "Pakistán",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "PT",
@@ -1295,37 +1295,37 @@ var DataCountries = [
         "id": "RO",
         "title": " ",
         "balloonText": "Rumania",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "RS",
         "title": " ",
         "balloonText": "Serbia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "RU",
         "title": " ",
         "balloonText": "Rusia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "RW",
         "title": " ",
         "balloonText": "Rwanda",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "SA",
         "title": " ",
         "balloonText": "Arabia Saudita",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "SD",
         "title": " ",
         "balloonText": "Sudan",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "SE",
@@ -1363,7 +1363,7 @@ var DataCountries = [
         "id": "SJ",
         "title": " ",
         "balloonText": "Svalbard y Jan Mayen",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "SK",
@@ -1385,19 +1385,19 @@ var DataCountries = [
         "id": "SL",
         "title": " ",
         "balloonText": "Sierra Leona",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "SN",
         "title": " ",
         "balloonText": "Senegal",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "SO",
         "title": " ",
         "balloonText": "Somalia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "SR",
@@ -1419,7 +1419,7 @@ var DataCountries = [
         "id": "SS",
         "title": " ",
         "balloonText": "Sudán del Sur",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "SV",
@@ -1441,73 +1441,73 @@ var DataCountries = [
         "id": "SY",
         "title": " ",
         "balloonText": "Siria",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "SZ",
         "title": " ",
         "balloonText": "Swazilandia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "FJ",
         "title": " ",
         "balloonText": "Fiyi",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "LS",
         "title": " ",
         "balloonText": "Lesotho",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "NC",
         "title": " ",
         "balloonText": "Nueva Caledonia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "SB",
         "title": " ",
         "balloonText": "Islas Solomon",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "TD",
         "title": " ",
         "balloonText": "Chad",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "TG",
         "title": " ",
         "balloonText": "Togo",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "TH",
         "title": " ",
         "balloonText": "Tailandia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "TJ",
         "title": " ",
         "balloonText": "Tayikistán",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "TM",
         "title": " ",
         "balloonText": "Turkmenistán",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "TN",
         "title": " ",
         "balloonText": "Túnez",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "TR",
@@ -1529,94 +1529,94 @@ var DataCountries = [
         "id": "BN",
         "title": " ",
         "balloonText": "Brunei Darussalam",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "CY",
         "title": " ",
         "balloonText": "Cyprus",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "DJ",
         "title": " ",
         "balloonText": "Djibouti",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "KW",
         "title": " ",
         "balloonText": "Kuwait",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "LB",
         "title": " ",
         "balloonText": "Lebanon",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "PS",
         "title": " ",
         "balloonText": "Palestinian Territories",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "QA",
         "title": " ",
         "balloonText": "Qatar",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "TL",
         "title": " ",
         "balloonText": "Timor-Leste",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "VU",
         "title": " ",
         "balloonText": "Vanuatu",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "TW",
         "title": " ",
         "balloonText": "Taiwán",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "TZ",
         "title": " ",
         "balloonText": "Tanzania",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "UA",
         "title": " ",
         "balloonText": "Ucrania",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "UG",
         "title": " ",
         "balloonText": "Uganda",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "US",
         title: "Estados Unidos",
         balloonText: "Estados Unidos",
-        regresoActividadesPresenciales: "",
-        fechaRetorno: "",
-        tipoModelo: "",
-        reincorporacionVoluntaria: "",
-        reincorporacionGradual: "",
-        docentesVacunados: "",
-        alumnosVacunados: "",
-        nombreEstrategia: "",
-        actividadesPresenciales: "",
-        aforosFiltrosSanitarios: "",
+        regresoActividadesPresenciales: "Si",
+        fechaRetorno: "Septiembre 2021",
+        tipoModelo: "Educación en persona, Híbrido y educación remota",
+        reincorporacionVoluntaria: "check",
+        reincorporacionGradual: "check",
+        docentesVacunados: "check",
+        alumnosVacunados: "check",
+        nombreEstrategia: "Return to School Roadmap",
+        actividadesPresenciales: "La Hoja de ruta incluye tres puntos claves prioritarios en las que se alienta a las escuelas, distritos y comunidades a centrarse para garantizar que todos los estudiantes estén preparados para el éxito en el año escolar 2021-2022. Estos incluyen: (1) priorizar la salud y seguridad de los estudiantes, el personal y los educadores, (2) construir comunidades escolares y apoyar la salud social, emocional y mental de los estudiantes, y (3) acelerar el rendimiento académico.",
+        aforosFiltrosSanitarios: "El Departamento de Educación de los Estados Unidos, indica lo siguiente: <ol> <li> Trabajar con socios en todo el gobierno federal para brindar apoyo a las escuelas y distritos y responder preguntas sobre la ampliación del acceso a las vacunas para los estudiantes mayores de 12 años y la implementación de la guía escolar K-12 recientemente actualizada de los CDC.</li> <li>Celebrar reuniones con los padres y las organizaciones de padres para resaltar las formas en que las escuelas y los distritos se están preparando para mantener a los estudiantes seguros durante el aprendizaje en persona y subrayar la importancia de brindar apoyo social, emocional y de salud mental para los estudiantes, además de los apoyos académicos en nuestras escuelas.</li> <li>Lanzamiento de herramientas de implementación para que las escuelas, los educadores y los padres aborden las tres áreas prioritarias de salud y seguridad; bienestar del estudiante; y académicos, en áreas que van desde apoyar a las escuelas en sus esfuerzos por abordar el tiempo extracurricular y de instrucción perdido hasta proporcionar información sobre cómo se pueden usar los fondos del Plan de Rescate Americano para ampliar el acceso a apoyos de salud mental para los estudiantes y educadores de nuestra nación, y proporcionar apoyos académicos adicionales .</li> <li>Actualización de los volúmenes 1 y 2 de los manuales COVID-19 del Departamento de Educación para reflejar la guía CDC K-12 actualizada recientemente.</li> </ol>",
         color: "rgba(0, 24, 75, 1)",
     },
     {
@@ -1639,7 +1639,7 @@ var DataCountries = [
         "id": "UZ",
         "title": " ",
         "balloonText": "Uzbekistán",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         id: "VE", 
@@ -1661,31 +1661,31 @@ var DataCountries = [
         "id": "VN",
         "title": " ",
         "balloonText": "Vietnam",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "YE",
         "title": " ",
         "balloonText": "Yemen",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "ZA",
         "title": " ",
         "balloonText": "Sudáfrica",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "ZM",
         "title": " ",
         "balloonText": "Zambia",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     },
     {
         "id": "ZW",
         "title": " ",
         "balloonText": "Zimbabwe",
-        "color": "rgba(255, 255, 255, 1)"
+        "color": "rgba(255, 255, 255, 0.5)"
     }
 ]
 
