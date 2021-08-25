@@ -35,7 +35,10 @@ var DataCountries = [
         nombreEstrategia: "No disponible",
         actividadesPresenciales: "Clases en grupos reducidos, preestablecidos y asegurando un número mínimo de contactos entre los escolares. Nuevo sistema de gestión de aprendizaje comprado de Noruega (país con más de 20 años de experiencia). Educación Digital. Los profesores toman cursos en materia de educación a distancia. La presencialidad estará sujeta al número de contagios de cada región, por lo anterior un objetivo es mejorar la educación en línea. En Berlín, asisten ya a clases alumnos y alumnas de primero al tercer grado, en presencia escalonada. A partir de este martes harán lo mismo alumnos y alumnas del cuarto al sexto grado en las escuelas berlinesas. En Baviera podrán regresar a clases alumnos y alumnas de la educación básica el próximo 15 de marzo, si las tasas de contagios se mantienen en un bajo nivel. En Brandemburgo también se reanudarán las clases en la educación media superior, alternadamente. En Hamburgo, padres de familia pueden decidir si sus hijas e hijos van a clases presenciales, o si mantienen el home schooling. En Baja Sajonia se regresa a las clases presenciales, siempre y cuando la tasa de contagis no rebase los 100 por cada 100.000 habitantes. En Sajonia, las clases en la educación básica se reanudaron de manera presencial desde febrero, y a partir del 15 de marzo seguirá el resto del alumnado.",
         aforosFiltrosSanitarios: "Los colegios mantienen las clases presenciales en aquellos lands donde suman 200 casos por cada 100,000 habitantes en siete días, aunque a partir de los 100 positivos serán obligatorios dos test rápidos de antígenos semanales. Uso obligatorio de cubre bocas en pasillos, escaleras y comedor. En algunas escuelas con bajo contagio el uso del cubre bocas en las aulas no es obligatorio si se mantiene una distancia de 1-5 mts. Se mantienen los filtros sanitarios",
-        "color": "rgba(0, 24, 75, 1)"
+        referencias: [
+            "https://www.dw.com/es/coronavirus-as%C3%AD-busca-alemania-reencontrar-la-normalidad/a-56805965"
+        ],
+        color: "rgba(0, 24, 75, 1)"
     },
     {
         "id": "AF",
@@ -75,6 +78,9 @@ var DataCountries = [
         nombreEstrategia: "Protocolo Marco",
         actividadesPresenciales: "Pensar en alternativas para la organización o habilitación de espacios no escolares de intercambio de la comunidad y espacios de encuentro de estudiantes. Calendario escolar diferenciado por jurisdicción. Generar espacios de trabajo alternativo y tutoriales que aborden dudas e incertidumbres que genera la pandemia. Proponer estrategias educativas lúdicas que apunten al cuidado de la salud y la integridad de los niños. Valoración de la salud emocional. Se privilegia el uso de espacios al aire libre. Grupos burbuja. Se deben diseñar prácticas de enseñanza bajo un escenario multimodal. En el caso de Argentina se presentan 3 modalidades de escolarización: Presencial: supone la asistencia regular a la escuela todos los días de la semana en el horario establecido por cada jurisdicción. Sólo podrá implementarse en las escuelas en las que la relación entre la cantidad de estudiantes y el espacio físico permita cumplir con el distanciamiento físico establecido en los protocolos. No presencial: supone que toda la escolaridad se cursa sin asistencia a actividades presenciales. Queda reservada a estudiantes que por razones de salud pertenezcan a grupos de riesgo y no puedan asistir a la escuela de manera presencial y a estudiantes matriculados en escuelas en las que, por decisión de las autoridades educativas y sanitarias jurisdiccionales, no puedan habilitarse actividades presenciales.  Combinada: alterna tiempos de trabajo de los y las estudiantes con asistencia a la escuela en clases presenciales y actividades educativas en situaciones de no presencialidad mediados por diferentes instrumentos y soportes. Se implementará en todos los casos que sea necesario para asegurar el sostenimiento de la norma básica de distanciamiento físico disminuyendo la densidad de ocupación de las aulas y los edificios escolares. Esto requerirá organizar a los y las estudiantes en grupos más reducidos conforme a diferentes criterios y definir regímenes de alternancia de días y horarios de asistencia a la escuela de cada grupo.",
         aforosFiltrosSanitarios: "Pensar en alternativas para la organización o habilitación de espacios no escolares de intercambio de la comunidad y espacios de encuentro de estudiantes. El regreso a clases es según la situación epidemiológica de cada localidad. La alternancia establece que el regreso a las actividades presenciales se realizará, en todos los casos, bajo las condiciones de seguridad sanitaria establecidas en los protocolos aprobados por el CONSEJO FEDERAL DE EDUCACIÓN y en los planes y protocolos jurisdiccionales, que serán actualizados en base al conocimiento producido a la fecha sobre medidas de prevención, la experiencia internacional en materia educativa y los hábitos instalados fuera de la escuela.",
+        referencias: [
+            "https://www.argentina.gob.ar/sites/default/files/res_cfe_387_-_if-2021-12986880-apn-sgcfeme.pdf"
+        ],
         color: "rgba(0, 24, 75, 1)"
     },
     {
@@ -107,6 +113,10 @@ var DataCountries = [
         nombreEstrategia: "Sin información",
         actividadesPresenciales: "Para hacer posible el regreso a los colegios se han adoptado estrictas medidas de higiene y se han prohibido actividades como las competencias escolares y las excursiones en estados como Nueva de Gales del Sur, Queensland y Tasmania. <br><br> Pese a los resguardos que han tomado las autoridades para evitar los contagios de coronavirus (COVID-19), más de siete mil padres y apoderados han firmado una petición en el portal Change.org para que el regreso a las clases presenciales en Nueva Gales del Sur no sea de carácter obligatorio. <br><br>  En cuanto a las universidades, aún se sigue estudiando cómo y cuándo regresar. Sin embargo, esta decisión recae en cada plantel y su respectivo estado.",
         aforosFiltrosSanitarios: "Regresan el total de la comunidad escolar para los niveles que retornan a clases presenciales, tanto alumnos, profesores y trabajadores se integrarán a las actividades académicas y laborales normales, siguiendo las medidas de distanciamiento social, uso de mascarilla en caso de tener tener síntomas respiratorios y el uso de desinfectante a base de alcohol.",
+        referencias: [
+            "https://www.eldinamo.cl/educacion/2020/05/25/australia-coronavirus-estudiantes-de-los-estados-mas-poblados-de-australia-vuelven-a-las-clases-presenciales-esta-semana/",
+            "https://www.elperiodico.com/es/internacional/20200525/estudiantes-aulas-australia-cuarentena-coronavirus-7973849"
+        ],
         color: "rgba(0, 24, 75, 1)"
     },
     {
@@ -141,6 +151,9 @@ var DataCountries = [
         nombreEstrategia: "No disponible",
         actividadesPresenciales: "Preescolar, primaria y secundaria volvieron a clases presenciales el 1 de septiembre del 2020. A tiempo pleno primaria y 1 er grado de secundaria de forma simultánea, los cinco días de la semana y sin restricciones de alumnos por clase; los restantes grados de este nivel lo hicieron con capacidad al 50%.  Es cada escuela la que decide la organización de sus clases para cumplir con esta norma, que en el caso de la educación especial se aplica ''solo cuando es posible teniendo en cuenta las necesidades de los alumnos''. Tanto en primaria como en secundaria es obligatorio el uso de mascarilla y solo hay clases de educación física en primaria, que siempre que sea posible deben celebrarse en el exterior.  Para el ingreso posterior a las vacaciones decembrinas, se decretó que los educacandos que hubiesen salido al extranjero, deberían guardar una cuarentena de 10 días antes de incorporarse a clases sólo acortable si se da negativo en una PCR realizada el séptimo día tras el regreso. La primera semana completa de clases totalmente presenciales fue a partir del lunes 17 de mayo. El regreso a las clases para todos - Primaria casi siempre ha sido cien por cien presencial-, que se produce a menos de ocho semanas del final del curso escolar, se vivirá, sin embargo, de forma muy diferente en cada centro ya que, según las regiones, unos reducirán los exámenes para dar prioridad a la continuación de las clases y en otros se aplicará la autonomía pedagógica.",
         aforosFiltrosSanitarios: "Salidas escalonadas a recreo,  padres, madres y cuidadores deberán mantener distancia física y acudir solamente un adulto a llevar al educando. Cada clase acogerá un máximo de 24 adolescentes simultáneamente y será obligatorio el uso de mascarillas, utilizar gel hidroalcohólico, respetar las distancias, dar prioridad a las clases de gimnasia al aire libre o impartir las clases con las ventanas abiertas y ventilar las aulas antes y después, así como durante los descansos, para limitar los riesgos de contaminación.",
+        referencias: [
+            "https://www.swissinfo.ch/spa/coronavirus-b%C3%A9lgica_los-alumnos-de-secundaria-en-b%C3%A9lgica-vuelven-a-clase/46604732"
+        ],
         color: "rgba(0, 24, 75, 1)"
     },
     {
@@ -181,6 +194,9 @@ var DataCountries = [
         nombreEstrategia: "Año por la Recuperación del Derecho a la Educación",
         actividadesPresenciales: "Según cada región, las clases serán presenciales, semipresenciales o a través de internet. En la presencial se realiza el curso normal, pero con normas de bioseguridad; en semipresencial hay alternancia en la asistencia de estudiantes a la unidad educativa, con la finalidad de evitar las aglomeraciones. Actualmente asisten a las escuelas niñas y niños de poblaciones rurales, adonde aún no llegó la segunda ola. Se han establecido tres formas de atención a los alumnos: Modalidad presencial. Implica la presencia física de las y los estudiantes, personal docente y administrativo, que interactúan en el desarrollo del proceso de aprendizaje en el espacio de la unidad educativa. Las unidades educativas que cuenten con un número menor o igual a 20 estudiantes por paralelo y año de escolaridad podrán optar por esta modalidad, con todas las medidas de bioseguridad de acuerdo con el protocolo establecido. Modalidad semipresencial. Consiste en la combinación de la modalidad presencial y a distancia, con alternancia entre ambas modalidades, desarrollando los procesos de aprendizaje en la unidad educativa y en el domicilio. Las unidades educativas que cuenten con un número mayor a 20 estudiantes por paralelo y año de escolaridad optarán por esta modalidad. Cada paralelo se dividirá en dos grupos, los cuales asistirán de manera alterna a la unidad educativa, de acuerdo con el horario establecido por el director de la UE, debiendo dar la comunidad educativa estricto cumplimiento a la aplicación de todas las medidas de bioseguridad de acuerdo con el protocolo establecido. Modalidad a distancia. los procesos de aprendizaje se desarrollan con el apoyo de las tecnologías de la información, medios de comunicación masiva, materiales impresos, en formato digital y otros. Esta modalidad no requiere la presencia física de los y las estudiantes. Ante el rebrote inminente de la propagación del COVID - 19, se aplicará la modalidad a distancia con el apoyo de recursos pedagógicos, material impreso, digital, medios tecnológicos (plataformas virtuales) o medios de comunicación masiva, radio, televisión, de acuerdo con las características del contexto.",
         aforosFiltrosSanitarios: "La modalidad a distancia a distancia se implementa en lugares donde los niveles de contagio son críticos, por ejemplo en las grandes ciudades. La modalidad presencial  se realiza con distanciamiento dentro de las aulas, uso permanente de cubrebocas (barbijo) y sanitizador de alcohol rebajado con agua o alcohol en gel para las manos. Además del barbijo y gell, muchos niños asisten con máscaras de placas transparentes. <br><br> Se estableció el documento de Consideraciones clave para el retorno seguro a clases, en el cual se establecen las emdidas básicas sanitarias  aseguir, como: Con relación al número de días a la semana que asistirán las alumnas y alumnos a la unidad educativa y los horarios de ingreso y salida, es necesario considerar la capacidad de la infraestructura, la disponibilidad del equipo educativo posibilidad de transporte, alimentación entre otros factores específicos de la comunidad o contexto educativo. Se deberán desinfectar todos los elementos personales como las partes expuestas del cuerpo antes de ingresar al hogar. Utilizar en lo posible pañuelos descartables, trapos, bolsas u otro similar para no tener contacto con puertas, timbres. Es importante que, al volver a casa, se intente no tocar nada hasta higienizarse.",
+        referencias: [
+            "https://www.unicef.org/bolivia/media/3336/file/Consideraciones%20clave%20para%20el%20retorno%20seguro%20a%20clases:%20Para%20tomadores%20de%20decisiones.pdf"
+        ],
         color: "rgba(0, 24, 75, 1)"
     },
     {
@@ -197,6 +213,14 @@ var DataCountries = [
         nombreEstrategia: "Marco de acción y recomendaciones para la reapertura de escuelas. UNICEF-Brasil",
         actividadesPresenciales: "Restricciones para recibir hasta un 35 % de sus alumnos, Las clases se han dividido en grupos, los cuales se irán rotando semanalmente para respetar el aforo limitado, se compaginará con el sistema de educación telemática. Desarrollar calendarios académicos alternativas, basadas en diferentes escenarios salud pública y teniendo en cuenta las modalidades que se utilizarán para la educación a distancia. Empoderar a los profesores para que se enfrenten aprendizaje de las necesidades de recuperación y salud mental y atención psicosocial (SMAPS) de estudiantes. Esfuerzos para la formación debería mejorar explícitamente la capacidad de los profesores para cumplir necesidades básicas socioemocionales y de salud alfabetización / aritmética de los estudiantes, principalmente en escuelas con una alta proporción estudiantes en riesgo. Los maestros deben estar capacitados para identificar cambios de comportamiento y trastornos cognitivos relacionados con la edad, así como para proporcionar un apoyo de aprendizaje adecuado diferentes grupos de edad. Considere prescindir de menos exámenes importantes, como los que se utilizan para la toma de decisiones aprobación para concentrar recursos asegurando que los exámenes esenciales (como los que se utilizan para obtener un título en la educación secundaria superior o para el ingreso a la universidad) se realizan en forma válida, confiable y equitativa, tomando teniendo en cuenta la distancia física y otros requisitos sanitarios. Solo el 56% de las capitales y el 49% de los estados tenían planes estructurados. En los demás, los protocolos de las redes estatales y de las redes municipales de las capitales estatales no fueron divulgados en el formato de un documento único, estructurado y transparente. Como resultado, la comunidad escolar no tenía el conocimiento y la seguridad. Por ello, argumentan que la educación a distancia, política fundamental para el funcionamiento de modelos híbridos, necesita una mayor preocupación de todos los ámbitos de la administración pública, especialmente en lo que respecta a la expansión del acceso a internet. Y que los protocolos traigan más medidas para evitar la interacción entre clases y especifiquen pautas para que diferentes clases no se mezclen en actividades colectivas. En este sentido, crear burbujas sería la medida más eficaz. Para el movimiento Familias por la Vida, el protocolo de la red municipal de São Paulo está desactualizado e insuficiente frente a lo que se conoce hoy sobre la transmisión del coronavirus. Para el colectivo, las máscaras de tela, el alcohol en gel y la distancia en un aula cerrada son insuficientes.",
         aforosFiltrosSanitarios: "Por normas de los ministerios de Salud y Educación es obligatorio para los padres de familia llevar a sus hijos con mascarilla, sin importar el nivel educativo al que asistan. En la escuela los maestros son los encargados de que los niños cumplan todas las normas de salubridad para evitar contagios de la covid-19. Los niños de kínder  son inducidos para guardar la distancia física entre compañeros, así como a mantener puesta la mascarilla todo el tiempo. Las escuelas privadas, que concentran el 19% de los estudiantes primarios y secundarios de Brasil, también están retomando sus actividades alternando clases presenciales opcionales y aulas remotas. En Río, sin embargo, apenas 38 centros de la red municipal fueron autorizados a recibir alumnos, por ser los únicos con las infraestructuras de higiene y espacio al día.",
+        referencias: [
+            "https://www.gov.br/mec/pt-br/media/acesso_informacacao/pdf/CartilhacomSumarioFinal.pdf",
+            "https://www.efe.com/efe/america/sociedad/brasil-empieza-a-retomar-las-clases-con-enormes-brechas-de-desigualdad/20000013-4460272",
+            "https://www.bbc.com/portuguese/brasil-56302283",
+            "https://www.france24.com/es/minuto-a-minuto/20210223-entre-cautela-y-recelo-sudam%C3%A9rica-trata-de-volver-a-clases",
+            "https://elfaro.net/es/202104/ef_foto/25391/Regreso-a-clases-en-pandemia.htm",
+            "https://www.unicef.org/brazil/media/8761/file/marco-de-acao-e-recomendacoes-para-a-reabertura-de-escolas.pdf"
+        ],
         color: "rgba(0, 24, 75, 1)"
     },
     {
@@ -247,6 +271,11 @@ var DataCountries = [
         nombreEstrategia: "No disponible",
         actividadesPresenciales: "Se están planificando la reanudación de las actividades en los campus y una combinación de cursos presenciales, híbridos y en línea. Dependiendo de una variedad de factores para decidir qué métodos se usarían para qué cursos, incluido el tamaño de las clases, la población estudiantil, las instalaciones y si el curso se basa en conferencias o laboratorios.",
         aforosFiltrosSanitarios: "El ministerio está animando a las escuelas a utilizar pruebas rápidas de antígenos para la detección de rutina de personas asintomáticas, así como la vigilancia de las aguas residuales para detectar niveles de COVID-19. <br><br>Se está planificando que se ofrezcan muchas clases pequeñas, laboratorios y tutoriales en persona, con protocolos de seguridad adecuados.",
+        referencias: [
+            "https://www.cbc.ca/news/canada/toronto/ontario-university-college-covid-fall-measures-1.6108134",
+            "https://www.cbc.ca/news/canada/toronto/ontario-universities-in-person-return-fall-1.5937414",
+            "https://www.venteacanada.com/universidades-de-ontario-planean-regreso-a-clases-presenciales-para-el-otono/"
+        ],
         color: "rgba(0, 24, 75, 1)"
     },
     {
@@ -303,6 +332,11 @@ var DataCountries = [
         nombreEstrategia: "Sigamos aprendiendo / Paso a paso abramos las escuelas / Chile recupera y aprende / Escuelas arriba",
         actividadesPresenciales: "De acuerdo a lo exhibido en el plan, solo se podrá optar a este regreso si es que así lo consideran los sostenedores, en concordancia con lo dispuesto por las autoridades sanitarias, de educación y los alcaldes de cada comuna. La Agencia de Calidad de la Educación pondrá a disposición de las comunidades educativas, por medio de su web, un diagnóstico integral. Las actividades presenciales se enfocarán en tres ejes: recuperación y nivelación de aprendizajes, bienestar socioemocional, y retención y reinserción escolar. La estrategia preparando el regreso contempla la incorporación graual de los alumnos a sus actividades escolares de la forma más normal posible y poniéndo énfasis en la toma de alimentos para prevenir los contagios de covid, Dicha estrategia contempla 5 pilares fundamentales: seguridad y proytección, contenión socioemocional, flexibilidad y gradualidad, centralidad del proceso pedagógico, equidad. A partir de julio del 2020, se puso en marcha la estrategia Paso a paso que organiza la actividad escolar de la siguiente manera: Como sea, desde ahora la actividad educativa quedará organizada de la siguiente manera:  <br><br>  CUARENTENA: <br> Asistencia: voluntaria / Apertura: de lunes a viernes con autorización del Mineduc (Sin necesidad de autorización si el establecimiento estaba abierto en Transición (Fase 2) y la comuna retrocede) <br><br>  TRANSICIÓN: <br> Asistencia: voluntaria / Apertura: permitida de lunes a viernes <br><br>  PREPARACIÓN: <br> Asistencia: voluntaria / Apertura: permitida de lunes a viernes <br><br> APERTURA: <br> Asistencia: Voluntaria / Apertura: permitida de lunes a viernes",
         aforosFiltrosSanitarios: "El Plan Paso a Paso es una estrategia gradual para enfrentar la pandemia según la situación sanitaria de cada zona en particular. Se trata de 4 escenarios o pasos graduales, que van desde la Cuarentena hasta la Apertura Avanzada, con restricciones y obligaciones específicas. El avance o retroceso de un paso particular a otro está sujeta a indicadores epidemiológicos, red asistencial y trazabilidad. 1) cuarentena 2) transición 3) preparación 4) apertura inicial La estrategia Pao a pasom contempla el protocolo ''Preparando el regreso'' que contiene tiene una serie de medidas para el regreso presencial donde se contemplan las medidas sanitarias que las escuelas deben implemnetar.para el retorno . Dicho protocolo debe realizarse ada 24 horas en los centros educativos. Se les da a las escuelas  un kit de limpieza básico con mascarillas, alcohol en gel, jabón, escudo facial, termómetros y sets de limpieza para las instalaciones.",
+        referencias: [
+            "https://www.colegiodeprofesores.cl/wp-content/uploads/2020/07/PlanRetornoAClases-08.06.pdf",
+            "https://chile.as.com/chile/2021/07/08/actualidad/1625770036_734481.html", 
+            "https://www.unicef.org/chile/informes/aprendizajes-educacion-parvularia-medidas"
+        ],
         color: "rgba(0, 24, 75, 1)"
     },
     {
@@ -331,7 +365,10 @@ var DataCountries = [
         nombreEstrategia: "Plan de alternancia",
         actividadesPresenciales: "Se autorizó que entre la tercera semana de enero y la primera de febrero realizará el regreso progresivo y gradual a las aulas, sin dejar de lado las clases virtuales y la educación en casa. No hay una fecha de regreso a clases determinada y cada región establece su propio calendario académico. Se dictamina como requisito que las regiones entreguen al Ministerio de Educación el Plan de Alternancia, que deberá ser aprobado. Posterior a ello, cada escuela pública y particular tendrá que adoptar las medidas establecidas, de acuerdo a sus capacidades de aforo y condiciones educativas.",
         aforosFiltrosSanitarios: "Se realizaron los LINEAMIENTOS PARA LA PRESTACIÓN DEL SERVICIO DE EDUCACIÓN EN CASA Y EN PRESENCIALIDAD BAJO EL ESQUEMA DE ALTERNANCIA Y LA IMPLEMENTACIÓN DE PRÁCTICAS DE BIOSEGURIDAD EN LA COMUNIDAD EDUCATIVA, en los cuales se mencionan los aspectos que deben cubrirse respecto a las medidas sanitarias y la gestión de los aprendizajes por parte de los territorios, autoridades locales y las propias escuelas",
-        "color": "rgba(0, 24, 75, 1)"
+        referencias: [
+            "https://www.mineducacion.gov.co/1759/articles-399094_recurso_1.pdf"
+        ],
+        color: "rgba(0, 24, 75, 1)"
     },
     {
         id: "CR",
@@ -347,6 +384,11 @@ var DataCountries = [
         nombreEstrategia: "Yo me cuido, yo te cuido, la comunidad se cuida",
         actividadesPresenciales: "Para poder abordar esa nueva realidad, se fortalece el modelo pedagógico, que tiene como meta los aprendizajes esperados y las habilidades, a partir de dimensiones como: <br> • Maneras de pensar, cuyo objetivo es el desarrollo cognitivo de cada persona, a través de diferentes habilidades y competencias. <br> • Formas de vivir en el mundo, con el propósito de asumir las interrelaciones dentro de la ciudadanía planetaria con arraigo pluricultural. <br> • Formas de relacionarse con otras personas, que son habilidades y competencias requeridas, a fin de desarrollar sinergias con otras personas mediante la comunicación y la colaboración <br> • Herramientas para integrarse al mundo, apropiación de las tecnologías digitales, así como la responsabilidad que conlleva el manejo de los mensajes y el uso de la información <br> <br> Para la palicación de la estrategia se contemplan algunas medidas como las siguientes: Para centros educativos públicos, privados y colegios técnicos que cuenten con la estructura adecuada, la duración de cada jornada en la modalidad presencial será de 8 horas máximo al día. Si no cuentan con la estructura física suficiente, la jornada máxima debe ser de 5 horas en la mañana y 5 horas en la tarde. <br> <br> El orden de ingreso será de acuerdo con los siguientes niveles: <br> Preescolar: Transición <br> Primaria: Quinto y sexto año <br> Secundaria: Décimo y undécimo año <br> Educación Técnica: Undécimo y duodécimo año. <br> En las escuelas unidocentes se aceptará la totalidad del estudiantado en el curso, siempre que sea posible mantener el distanciamiento físico de 1,8 metros.",
         aforosFiltrosSanitarios: "Las actividades que se realizan en el marco de la estrategia para generar los productos en el corto plazo, los efectos en el mediano plazo y los impactos anteriormente mencionados en el largo plazo, son:  Conformar mesas de trabajo para análisis de las premisas.  Realizar un diagnóstico sobre las condiciones de infraestructura de los centros educativos.  Establecer una estrategia de participación y comunicación de la Estrategia “Regresar” para todos los actores involucrados.  Identificar la población con mayor nivel de vulnerabilidad a partir del análisis del índice de vulnerabilidad.  Elaborar  un  plan  de  apertura  para  cada  centro  educativo  que  garantice  el  regreso  a  la presencialidad de la población educativa de todas las ofertas y modalidades educativas.  Elaborar los protocolos específicos sanitarios para garantizar un riesgo mínimo de contagio del Covid-19 durante el regreso a la presencialidad de la población educativa de todas las ofertas y modalidades educativas, así como actualizar estos protocolos de conformidad con la evolución de la pandemia.  Difusión y asesoramiento a estudiantes y personal de los centros educativos y las DRE para el uso de protocolos.  Verificar la implementación de los protocolos específicos sanitarios  Conformar las comisiones institucionales de riesgo.  Habilitar  de  plataforma Microsoft  Teams  para  el  uso de  docentes  y  personas estudiantes promoviendo su utilización.  Generación de  acciones  para el fortalecimiento de  las condiciones  y recursos con los que cuentan los centros educativos, que aseguren un retorno seguro a la presencialidad.  Diseñar y divulgar las orientaciones para la mediación pedagógica en educación combinada.  Diseñar y divulgar las orientaciones para la evolución del aprendizaje en el aula y estandarizada (FARO, Educación Abierta).  Elaborar los instrumentos de apoyo Educativo y tecnológico para el aprendizaje.  Diseñar y divulgar las orientaciones para la participación estudiantil.  Establecer el rol de los actores en el servicio presencial y a distancia.  Definir los lineamientos técnicos para el proceso de evaluación.  Diseñar y divulgar los instrumentos de Evaluación de los aprendizajes esperados.  Establecer  los  instrumentos  de  seguimiento  para  la  implementación  de  la  Estrategia “Regresar”",
+        referencias: [
+            "https://www.unicef.org/lac/media/20621/file",
+            "https://www.mep.go.cr/sites/default/files/page/adjuntos/protocolo-limpieza-desinfeccion-areas-mep.pdf"
+
+        ],
         color: "rgba(0, 24, 75, 1)"
     },
     {
@@ -363,6 +405,14 @@ var DataCountries = [
         nombreEstrategia: "No disponible",
         actividadesPresenciales: "Cuando algunas provincias regresaron en septiembre-noviembres, hubo en las escuelas presencia de médicos y enfermeras, horarios flexibles, horarios escalonados en universidades.",
         aforosFiltrosSanitarios: "Cuando se dice que regresaron,septiembre-noviembre además de las medidas básicas:horarios de receso y almuerzo realizados de forma escalonada, no entrada de familiares ni extraños, prohibición de actos grupales, identificación de contagios en estudantes.",
+        referencias: [
+            "https://www.mined.gob.cu/reiniciara-curso-escolar-en-cuba-el-proximo-6-de-septiembre/",
+            "https://www.radioreloj.cu/noticias-radio-reloj/educacion/retorno-a-las-aulas-habaneras/",
+            "https://andina.pe/agencia/noticia-cuba-iniciara-junio-proceso-vacunacion-su-propia-vacuna-anticovid-838677.aspx",
+            "https://www.mined.gob.cu/reitera-mined-cumplimiento-de-medidas-frente-a-la-covid-19/#",
+            "https://medicinaysaludpublica.com/noticias/salud-publica/lenta-inmunizacion-en-el-caribe-incluyendo-cuba-y-haiti/8395",
+            "https://www.radionuevitas.icrt.cu/cuba/7307-desmiente-ministra-de-educacion-reinicio-de-curso-escolar-en-cuba.html"
+        ],
         color: "rgba(255, 165, 0, 1)"
     },
     {
@@ -423,16 +473,21 @@ var DataCountries = [
         id: "EC",
         title: "Ecuador",
         balloonText: "Ecuador",
-        regresoActividadesPresenciales: "",
-        fechaRetorno: "",
-        tipoModelo: "",
-        reincorporacionVoluntaria: "",
-        reincorporacionGradual: "",
-        docentesVacunados: "",
-        alumnosVacunados: "",
-        nombreEstrategia: "",
+        regresoActividadesPresenciales: "Si",
+        fechaRetorno: "Marzo de 2021",
+        tipoModelo: "Híbrido",
+        reincorporacionVoluntaria: "SI",
+        reincorporacionGradual: "SI",
+        docentesVacunados: "SI",
+        alumnosVacunados: "NO",
+        nombreEstrategia: "Aprendemos Juntos en Casa",
         actividadesPresenciales: "",
         aforosFiltrosSanitarios: "",
+        referencias: [
+            "https://educacion.gob.ec/plan-de-continuidad-educativa/",
+            "https://educacion.gob.ec/wp-content/uploads/downloads/2020/08/Protocolo-para-el-autocuidado-e-higiene-de-la-poblacion-educativa-covid-19.pdf",
+            "https://educacion.gob.ec/wp-content/uploads/downloads/2020/09/MINEDUC-MINEDUC-2020-00044-A.pdf"
+        ],
         color: "rgba(0, 24, 75, 1)"
     },
     {
@@ -865,6 +920,10 @@ var DataCountries = [
         nombreEstrategia: "k12",
         actividadesPresenciales: "El protocolo obligaba a que, una vez activado por el Ministerio de Salud el nivel 2 de restricciones en función del volumen regional de contagios, solo un tercio (en el caso de preescolar, primaria y secundaria) y dos tercios (para bachillerato) del total de alumnos en cada aula pudieran asistir a clases al mismo tiempo. <br>El tercio o dos tercios restantes debían asistir online a las clases, con base en un sistema rotatorio para garantizar que todos los alumnos tuvieran la misma proporción de horas lectivas presenciales y a distancia. <br>Independientemente del nivel de transmisión comunitaria, es importante utilizar y multiplexar estrategias de prevención en las escuelas. Aquí hay cinco estrategias de prevención clave para ayudar a garantizar una educación cara a cara segura y ayudar a prevenir la propagación de COVID-19 en las escuelas: <br>Todos usan la máscara correctamente distanciamiento físico <br>Lavado de manos y etiqueta respiratoria. <br>Mantener las instalaciones limpias y sanitarias. <br>Rastreo de contactos además de cuarentena y cuarentena preventiva <br><br> Las escuelas que ofrecen educación presencial deben priorizar dos estrategias de prevención: <ol> <li>Asegúrese de que todos usen / usen una máscara correctamente</li> <li>Maximizar el distanciamiento físico</li> <li>Todas las estrategias de prevención brindan algún nivel de protección, y el nivel más alto de protección se puede lograr aplicando múltiples estrategias al mismo tiempo. </li> <li>Las escuelas deben adoptar estrategias de prevención en un enfoque multiplexado que sea lo más práctico posible.</li></ol>",
         aforosFiltrosSanitarios: "La estrategia recomendada por el gobierno surcoreano consiste en un ingreso de los estudiantes ordenado, por turnos y que pasen por un detector térmico. Durante el día el control de la temperatura se realizaba varias veces al igual que el lavado de manos. Además, los escritorios fueron separados por unas láminas y el uso de mascarillas es permanentemente.",
+        referencias: [
+            "https://www.latercera.com/mundo/noticia/las-nuevas-reglas-del-regreso-a-clases-en-el-mundo/JROFQR7GUVDSROOTQY275FJVLM/",
+            "https://korean.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/operation-strategy.html#anchor_1616080023247"
+        ],
         color: "rgba(0, 24, 75, 1)"
     },
     {
@@ -1799,7 +1858,6 @@ polygonTemplate.events.on("hit", function(ev) {
     var ref = "";
     var refSplited = "";
 
-    /*
     if( DataActualCountry.referencias.length > 5 )
         $('.card-references').css('overflow-y', 'scroll');
     else
@@ -1809,8 +1867,6 @@ polygonTemplate.events.on("hit", function(ev) {
         refSplited = DataActualCountry.referencias[i].split('/');
         ref = ref+"<a class='truncate' href='"+DataActualCountry.referencias[i]+"'>"+DataActualCountry.referencias[i]+"</a>";
     }
-
-    */
 
     $('.referencias-container').html(ref);
     console.log( data.color );
