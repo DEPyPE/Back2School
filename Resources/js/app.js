@@ -1750,8 +1750,6 @@ var DataCountries = [
 
 $(document).ready(function(){
     $('.modal').modal();
-
-    console.log( DataCountries );
 });
 
 var chart = am4core.create("map", am4maps.MapChart);
@@ -1777,7 +1775,6 @@ polygonTemplate.propertyFields.fill = "color";
 polygonTemplate.events.on("hit", function(ev) {
     var data = ev.target.dataItem.dataContext;
     var innerHTML = data.balloonText + " (" + data.id  + ")";
-    console.log(innerHTML);
 
     for(var i=0; i<DataCountries.length; i++){
         var DataActualCountry;
@@ -1855,6 +1852,7 @@ polygonTemplate.events.on("hit", function(ev) {
     else
         $('.country-name').css('color', 'white');
 
+/*
     var ref = "";
     var refSplited = "";
 
@@ -1869,36 +1867,16 @@ polygonTemplate.events.on("hit", function(ev) {
     }
 
     $('.referencias-container').html(ref);
-    console.log( data.color );
+*/
 
+    console.log( data.color );
+    
     if( data.color == "rgba(0, 24, 75, 1)" || data.color == "rgba(255, 165, 0, 1)" )
         $('#ShowCountryInformation').modal('open');
     else if( data.color == "rgba(200, 200, 200, 1)" ){
         $('.country-name').text(DataActualCountry.title);
         $('#CountryNoConsider').modal('open');
     }
-
-/*
-    
-    if( data.color == "rgba(0, 24, 75, 1)" || data.color == "rgba(255, 165, 0, 1)" ){
-        $('.country-name').text(DataActualCountry.balloonText);
-        $('.fechaRetorno').html(DataActualCountry.fechaRetorno);
-        $('.tipoModelo').text(DataActualCountry.tipoModelo);
-        $('.nombreEstrategia').html("<br>"+DataActualCountry.nombreEstrategia+"<br><br>");
-        $('.actividadesPresenciales').html("<br>"+DataActualCountry.actividadesPresenciales+"<br><br>");
-        $('.aforosFiltrosSanitarios').html("<br>"+DataActualCountry.aforosFiltrosSanitarios+"<br><br>");
-    
-        $('.reincorporacionVoluntaria').html("<i class='small material-icons icon-color-"+DataActualCountry.reincorporacionVoluntaria+"'>"+DataActualCountry.reincorporacionVoluntaria+"</i>");
-        $('.reincorporacionGradual   ').html("<i class='small material-icons icon-color-"+DataActualCountry.reincorporacionGradual+"'>"+DataActualCountry.reincorporacionGradual+"</i>");
-        $('.docentesVacunados        ').html("<i class='small material-icons icon-color-"+DataActualCountry.docentesVacunados+"'>"+DataActualCountry.docentesVacunados+"</i>");
-        $('.alumnosVacunados         ').html("<i class='small material-icons icon-color-"+DataActualCountry.alumnosVacunados+"'>"+DataActualCountry.alumnosVacunados+"</i>");
-    
-        $('#ShowCountryInformation').modal('open');
-    }else if( data.color == "rgba(200, 200, 200, 1)" ){
-        $('.country-name').text(DataActualCountry.balloonText);
-        $('#CountryNoConsider').modal('open');
-    }
-*/
 });
 
 // Remove Antarctica
